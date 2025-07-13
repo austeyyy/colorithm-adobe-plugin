@@ -26,21 +26,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The Colorithm plugin for Adobe Photoshop lets you effortlessly generate harmonious color palettes from any base color.
+Features include color extraction, palette generation, quick foreground setting, HEX code copying, and easy palette respinning — all from an intuitive UI integrated directly in Photoshop (v24.2.0+).
 
 
 
 ### Built With
-
+* [![Adobe UXP][UXP.js]][UXP-url]
 * [![React][React.js]][React-url]
-* NodeJS
-* TypeScript
-* Vercel
+* [![TypeScript][TypeScript]][TypeScript-url]
+* [![Node.js][Node.js]][Node-url]
+* [![Sass][Sass.js]][Sass-url]
+* [![Vercel][Vercel]][Vercel-url]
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -53,14 +51,30 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 4. Click "Extract Color & Generate Palette".
 5. Choose from the generated swatches to:
    - Set the foreground color
-   - Fill selection with color
    - Copy HEX to clipboard
    - Respin a palette from a selected color
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[product-screenshot]: public/images/product-img.png
+
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/
+
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
+
+[Sass.js]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[Sass-url]: https://sass-lang.com/
+
+[UXP.js]: https://img.shields.io/badge/Adobe%20UXP-FF0000?style=for-the-badge&logo=adobe&logoColor=white
+[UXP-url]: https://developer.adobe.com/uxp/
+
+
+[product-screenshot]: images/product-img.png
 
