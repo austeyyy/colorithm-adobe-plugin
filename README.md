@@ -29,6 +29,13 @@
 The Colorithm plugin for Adobe Photoshop lets you effortlessly generate harmonious color palettes from any base color.
 Features include color extraction, palette generation, quick foreground setting, HEX code copying, and easy palette respinning — all from an intuitive UI integrated directly in Photoshop (v24.2.0+).
 
+<br/>
+
+This project uses a proxy to access the [Colormind API](http://colormind.io/).
+- Proxy server repo: [https://github.com/austeyyy/colormind-proxy](https://github.com/austeyyy/colormind-proxy)
+  
+<br/>
+
 
 
 ### Built With
